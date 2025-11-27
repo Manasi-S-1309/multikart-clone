@@ -10,7 +10,7 @@ Check out the project here: [Live Demo](https://manasi-s-1309.github.io/multikar
 
 ---
 
-##Features
+## Features
 - Responsive design for desktop and mobile
 - Clean and modern UI layout
 - Product grid, banners, and navigation bar
@@ -27,21 +27,21 @@ Check out the project here: [Live Demo](https://manasi-s-1309.github.io/multikar
 
 ---
 
-## 📚 Learning & Challenges
+## Learning & Challenges
 - Learned how to structure complex layouts with Flexbox and Grid
 - Faced challenges with cross-browser testing and responsiveness
 - Improved skills in clean coding and modular CSS
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 - Add product filtering and search functionality
 - Integrate backend (Java/Spring Boot + MySQL) for dynamic content
 - Enhance UI with animations and transitions
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Manasi**  
 - GitHub: [Manasi-S-1309](https://github.com/Manasi-S-1309)  
 - Portfolio: *Coming soon with React*
